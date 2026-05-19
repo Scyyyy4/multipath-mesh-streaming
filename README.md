@@ -1,8 +1,7 @@
 # Multi-Path Data Streaming in a Mesh Network Using Network Coding
 
-**CUHK IERG4999 Final Year Project II** — Su, Caiyi (1155191405)  
+**CUHK IERG4998/4999 Final Year Project 
 Department of Information Engineering, The Chinese University of Hong Kong  
-April 2024
 
 > Designs, implements, and evaluates a **controllable multi-path data streaming platform** for experimental research in mesh networks. The platform supports deterministic path selection, TCP/UDP/FEC-based file transfer, automated experimentation, and systematic performance measurement under emulated network conditions.
 
@@ -218,4 +217,4 @@ python3 run_experiments.py
 
 ## Research Context
 
-Completed as part of the BEng Information Engineering programme at **CUHK**, Department of Information Engineering, under the supervision of **Prof. Yang Weihao** (INC Lab). This platform provides a practical foundation for future research on BATS network coding, adaptive FEC, and multi-path video streaming in wireless mesh environments.
+Completed as part of the BEng Information Engineering programme at **CUHK**, Department of Information Engineering, under the supervision of **Professor YEUNG Wai Ho** (INC Lab). This platform provides a practical foundation for future research on BATS network coding, adaptive FEC, and multi-path video streaming in wireless mesh environments.
