@@ -217,4 +217,4 @@ python3 run_experiments.py
 
 ## Research Context
 
-Completed as part of the BEng Information Engineering programme at **CUHK**, Department of Information Engineering, under the supervision of **Professor YEUNG Wai Ho** (INC Lab). This platform provides a practical foundation for future research on BATS network coding, adaptive FEC, and multi-path video streaming in wireless mesh environments.
+Completed as part of the BEng Information Engineering programme at **CUHK**, Department of Information Engineering, under the supervision of **Professor YEUNG Wai Ho**. This platform provides a practical foundation for future research on BATS network coding, adaptive FEC, and multi-path video streaming in wireless mesh environments.
