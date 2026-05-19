@@ -1,0 +1,4 @@
+# stdlib only — Python 3.8+
+# No third-party dependencies required.
+# All modules used (socket, threading, struct, time, csv, subprocess, os, sys, math, shutil)
+# are part of the Python standard library.
