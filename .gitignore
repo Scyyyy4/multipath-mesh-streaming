@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+
+# Experiment outputs
+*.mp4
+*.bin
+reconstructed*
+udp_parts/
+tcp_parts/
+fec_parts/
+
+# OS
+.DS_Store
+Thumbs.db
